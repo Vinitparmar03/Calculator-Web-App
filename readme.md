@@ -4,7 +4,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Preview
 
-[Preview the Calculator Web App](https://i.imgur.com/LQD96Yn.png) <!-- Add a link to the live preview here -->
+![Preview the Calculator Web App](https://i.imgur.com/LQD96Yn.png) <!-- Add a link to the live preview here -->
 
 ## How to Use This Application
 
